@@ -1,0 +1,2 @@
+$ sudo nano /etc/mongod.conf 
+$ sudo service mongod restart
