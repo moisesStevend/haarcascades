@@ -1,0 +1,13 @@
+- codigos para opencv 2.4
+- se recomienda trabajar con opencv3.X
+
+url de referencias:
+--------------------
+
+
+http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
+
+http://www.femb.com.mx/people-counter/people-counter-9-counting/
+
+
+https://github.com/infr/falldetector-public/tree/master/img
