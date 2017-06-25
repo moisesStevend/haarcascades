@@ -1,0 +1,8 @@
+https://curl.trillworks.com/
+http://blog.luisrei.com/articles/flaskrest.html
+http://docs.python-requests.org/en/master/
+http://docs.python-requests.org/en/master/user/quickstart/
+https://github.com/flask-restful/flask-restful/blob/master/examples/todo_simple.py
+http://www.samuelcheng.info/computer_network_2016/hw5.html
+https://www.dropbox.com/s/vx6cji492v8hm95/echo_get.py?dl=0https://www.dropbox.com/s/vx6cji492v8hm95/echo_get.py?dl=0
+
